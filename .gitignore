@@ -1,5 +1,7 @@
 # Created by https://www.toptal.com/developers/gitignore/api/dart,visualstudiocode,intellij+all,intellij,intellij+iml,flutter
 
+.DS_Store
+
 ### Dart ###
 # See https://www.dartlang.org/guides/libraries/private-files
 
